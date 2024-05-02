@@ -1,0 +1,2 @@
+from etherscan.io
+unix,date,symbol,open,high,low,close,Volume USD,Volume GNO

@@ -1,0 +1,3 @@
+from etherscan.io
+unix,date,symbol,open,high,low,close,Volume USD,Volume GNO
+1670940071,---,---,85165703,85165703,85165703,85165703
